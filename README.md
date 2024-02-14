@@ -1,7 +1,10 @@
 # Real-Time-Location-Data-Integration
 
-The work presented in this project report and associated code implementation is the culmination of collaborative efforts, drawing upon various sources and external assistance. While the author has contributed to the project, it is important to acknowledge the utilization of external resources and tools, including AI-based assistance.
+The content of this case study represents collaborative efforts and draws upon various sources and assistance, including external resources and AI tools. It is important to acknowledge that the presented solution is a conceptual demonstration and not a fully functional application.
 
-The project benefited from the insights, suggestions, and assistance provided by AI tools, such as OpenAI's GPT-3.5, which played a role in generating code snippets, offering recommendations, and aiding in problem-solving. Additionally, other external sources, including online documentation, tutorials, and community forums, have also contributed to the project's development.
+The development of this case study involved leveraging insights and assistance from external sources and AI-based tools to showcase a basic solution for seamless integration of real-time location data for cab tracking. While the author has contributed to the project, it is essential to recognize the collective contributions of external sources and tools.
 
-This disclaimer aims to recognize the collaborative nature of the project and the diverse array of resources utilized during its execution. The author acknowledges the valuable contributions of external sources and tools while taking responsibility for the overall integrity and quality of the work.
+The utilization of AI tools, such as OpenAI's GPT-3.5, has played a significant role in generating content, providing suggestions, and aiding in problem-solving. However, it is crucial to understand that the final implementation may require further refinement and development to achieve full functionality.
+
+This disclaimer serves to acknowledge the collaborative nature of the work and the diverse array of resources utilized in its creation. The author takes responsibility for compiling and presenting the information while acknowledging the valuable contributions of external sources and AI tools. It is emphasized that the presented solution is intended to demonstrate how a basic solution to the problem can be implemented, rather than serving as a fully functional application.
+
